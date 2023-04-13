@@ -1,4 +1,6 @@
-# Nilanjana's-Portfolio
+# Data Science Projects
+
+
 [Project 1: Fraud Detection Analysis for Banking Transactions](https://github.com/nilanjanaghoshal/Fraud-Detection-Analysis-for-Banking-Transactions)
 
 Summary:
