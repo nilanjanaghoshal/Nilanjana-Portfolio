@@ -16,3 +16,5 @@ This Python script aims to predict fraudulent activity in banking transactions u
 6) Evaluated the accuracy of the model by calculating the accuracy score, confusion matrix, and classification report.
 
 7) The final result is a logistic regression model that can detect fraudulent activity in banking transactions with high accuracy, which can help reduce losses from fraudulent activities and increase overall fraud prevention.
+
+[](https://github.com/nilanjanaghoshal/Nilanjana-Portfolio/blob/main/images/istockphoto-585806700-612x612.jpg)
