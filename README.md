@@ -23,5 +23,4 @@ This report analyzes a housing dataset for a real estate firm looking to invest 
 Results:
 
 The report identifies several potential variables that could be considered while making an investment decision, including land value, building value, finished area, and full bath. The data shows that there were more houses reported as overpriced than underpriced and that June 2015 had the most sales. There is a large difference between the average value of certain numerical columns, indicating the presence of outliers. The boxplots help to identify the types of houses and areas to focus on when making investment decisions. Finally, the heatmap shows positive correlations between land value, building value, finished area, and full bath, confirming their potential as significant variables.
-
 ![](/images/house%20sale.jpg)
