@@ -18,3 +18,15 @@ This Python script aims to predict fraudulent activity in banking transactions u
 7) The final result is a logistic regression model that can detect fraudulent activity in banking transactions with high accuracy, which can help reduce losses from fraudulent activities and increase overall fraud prevention.
 
 ![](/images/istockphoto-585806700-612x612.jpg)
+
+
+[Project 2: Investing in houses at Nashville](https://github.com/nilanjanaghoshal/Nashville_house_price-prediction)
+
+Summary:
+
+This report analyzes a housing dataset for a real estate firm looking to invest in Nashville. The goal is to create a model that can help locate the best investment opportunities. The report includes data cleaning, exploratory data analysis, and modeling using four different algorithms: logistic regression, random forest, decision tree, and XGBoost. The analysis aims to identify the most significant variables that impact the sale price compared to value.
+
+Results:
+
+The report identifies several potential variables that could be considered while making an investment decision, including land value, building value, finished area, and full bath. The data shows that there were more houses reported as overpriced than underpriced and that June 2015 had the most sales. There is a large difference between the average value of certain numerical columns, indicating the presence of outliers. The boxplots help to identify the types of houses and areas to focus on when making investment decisions. Finally, the heatmap shows positive correlations between land value, building value, finished area, and full bath, confirming their potential as significant variables.
+
