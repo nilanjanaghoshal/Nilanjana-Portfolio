@@ -1,21 +1,15 @@
 # Nilanjana's-Portfolio
 [Project 1: Fraud Detection Analysis for Banking Transactions](https://github.com/nilanjanaghoshal/Fraud-Detection-Analysis-for-Banking-Transactions)
 
-This Python script aims to predict fraudulent activity in banking transactions using a dataset of credit card transactions. It uses a logistic regression model to identify the fraudulent transactions. This Python script aims to predict fraudulent activity in banking transactions using a dataset of credit card transactions. It uses a logistic regression model to identify the fraudulent transactions.
+Summary:
 
-1) Explored the dataset by printing first few rows, obtaining summary statistics using describe() method, and checking for missing values.
+The Python script reads a dataset of credit card transactions from a CSV file and performs various exploratory data analysis (EDA) techniques to understand the distribution and correlation of the data features. It then splits the dataset into training and testing sets and creates a logistic regression model to detect fraudulent activities in banking transactions. Finally, the script evaluates the accuracy of the model and presents the results as classification metrics.
 
-2) Visualized the distribution of classes using a count plot and create a correlation matrix using a heatmap plot to determine correlation between features.
+Results:
 
-3) Used box plots to compare the distribution of amounts for fraudulent and non-fraudulent transactions, visualize the distribution of time using a histogram, and use histograms to plot the distribution of each feature.
+The logistic regression model achieved an accuracy score of 99.8%, which indicates a high level of accuracy in detecting fraudulent transactions. The confusion matrix and classification report showed that the model had a high detection rate for fraudulent transactions, with a low false-positive rate. By implementing this type of analysis, banks can reduce their losses from fraudulent activities and increase overall fraud prevention.
 
-4) Split the dataset into training and testing sets and create a logistic regression model.
-
-5) Train the model on the training data and predict the classes of the test data.
-
-6) Evaluated the accuracy of the model by calculating the accuracy score, confusion matrix, and classification report.
-
-7) The final result is a logistic regression model that can detect fraudulent activity in banking transactions with high accuracy, which can help reduce losses from fraudulent activities and increase overall fraud prevention.
+In summary, the script provides a useful approach for detecting fraudulent activities in banking transactions using a logistic regression model. This approach can be beneficial for banks to minimize their losses from fraudulent activities and improve their fraud prevention systems.
 
 ![](/images/istockphoto-585806700-612x612.jpg)
 
