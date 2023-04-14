@@ -64,4 +64,20 @@ Finally, the Gradient Boosting model was applied to the data using default param
 Overall, the models achieved high accuracy and performed well in predicting the labels of the data entries.
 
 
+ [Project 4: Magazine Subscription Behavior](https://github.com/nilanjanaghoshal/magazine_purchase/blob/main/Module3_Nilanjana_Ghoshal_Understanding_Magazine_Subscription_Behaviour%20(1).ipynb)
  
+ 
+ 
+Summary:
+
+This Python script performs an analysis on a marketing campaign dataset to predict whether a customer accepted a campaign or not. The analysis includes data cleaning, exploratory data analysis, and visualization to gain insights into the data.
+
+Results:
+
+1) The majority of customers are married or single, with a bachelor's or master's degree.
+2) Customers who spent more on wine, meat, and fish were more likely to accept a marketing campaign.
+3) Customers with more children were less likely to accept a marketing campaign.
+4) Customers with a higher income and education were more likely to accept a marketing campaign.
+5) Outliers were found in several numerical columns, including income and age.
+6) The Logistic Regression model predicts customer response to a marketing campaign based on education, income, and other factors with an accuracy of 95%.
+
