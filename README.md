@@ -1,4 +1,6 @@
-# Nilanjana Ghoshal 
+<p align="center">
+  # Nilanjana Ghoshal 
+</p>
 
 <p align="center">
   <img src="images/IMG_8909.jpg" height=200px>
