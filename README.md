@@ -66,7 +66,9 @@ Overall, the models achieved high accuracy and performed well in predicting the 
 
  [Project 4: Magazine Subscription Behavior](https://github.com/nilanjanaghoshal/magazine_purchase/blob/main/Module3_Nilanjana_Ghoshal_Understanding_Magazine_Subscription_Behaviour%20(1).ipynb)
  
- 
+ <p align="center">
+  <img src="images/corrplotmagazine.png" height=200px>
+</p>
  
 Summary:
 
