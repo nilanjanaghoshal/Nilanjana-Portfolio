@@ -12,7 +12,7 @@ I have completed several academic projects that leverage machine learning to pre
 [Project 1: Fraud Detection Analysis for Banking Transactions](https://github.com/nilanjanaghoshal/Fraud-Detection-Analysis-for-Banking-Transactions)
 
 <p align="center">
-  <img src="images/istockphoto-585806700-612x612.jpg" height=200px>
+  <img src="images/bank.png" height=400px>
  </p>
  
 Summary:
