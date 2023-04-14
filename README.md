@@ -4,6 +4,7 @@ About me
 
 ![](/images/IMG_2934.JPEG)
 
+
 Hi, I'm Nilanjana Ghoshal, a data-driven analytics professional with a passion for solving complex problems using machine learning. With a Master of Science in Analytics and a Master's in Business Administration, I have a broad range of skills in probability and statistics, big data, data mining, visualization, financial analysis, and marketing analysis.
 
 I have completed several academic projects that leverage machine learning to predict outcomes and provide insights. From predicting house prices in Nashville to conducting fraud detection analysis for banking transactions, I have experience working with various machine learning algorithms such as linear regression, logistic regression, decision trees, random forests, and more. I also have technical proficiency in R, Python, SQL, Tableau, Power BI, and Google Data Studio, and leadership experience from my previous roles.
