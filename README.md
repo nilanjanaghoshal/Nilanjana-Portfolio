@@ -77,9 +77,14 @@ This Python script performs an analysis on a marketing campaign dataset to predi
 Results:
 
 1) The majority of customers are married or single, with a bachelor's or master's degree.
+
 2) Customers who spent more on wine, meat, and fish were more likely to accept a marketing campaign.
+
 3) Customers with more children were less likely to accept a marketing campaign.
+
 4) Customers with a higher income and education were more likely to accept a marketing campaign.
+
 5) Outliers were found in several numerical columns, including income and age.
+
 6) The Logistic Regression model predicts customer response to a marketing campaign based on education, income, and other factors with an accuracy of 95%.
 
