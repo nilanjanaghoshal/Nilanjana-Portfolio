@@ -52,3 +52,5 @@ The Neural Network model was also trained on 80% of the data, using a multilayer
 Finally, the Gradient Boosting model was applied to the data using default parameters, achieving an accuracy of 96.23% on the test set. The classification report showed good precision and recall for all labels.
 
 Overall, the models achieved high accuracy and performed well in predicting the labels of the data entries.
+
+![](/images/text classification.png)
