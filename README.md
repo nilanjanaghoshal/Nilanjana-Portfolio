@@ -1,6 +1,5 @@
 # Data Science Projects
 
-About me
 
 ![](/images/IMG_8909.jpg)
 
