@@ -46,7 +46,7 @@ The report identifies several potential variables that could be considered while
 [Project 3: Text Classification: Predicting Labels of the Data Entries](https://github.com/nilanjanaghoshal/Text-classification)
 
 <p align="center">
-  <img src="images/text classification.png" height=200px>
+  <img src="images/letter.png" height=300px>
 </p>
 
 Summary:
