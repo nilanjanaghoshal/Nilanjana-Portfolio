@@ -1,7 +1,7 @@
 # Nilanjana Ghoshal 
 
 
-img[src*="https://github.com/nilanjanaghoshal/Nilanjana-Portfolio/blob/main/images/IMG_8909.jpg"] {
+img[src*="images/IMG_8909.jpg"] {
    width:150px;
    height:100px;
 }
