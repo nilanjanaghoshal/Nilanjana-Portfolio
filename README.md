@@ -1,6 +1,3 @@
-<p align="center">
-   Nilanjana Ghoshal
-</p>
 
 <p align="center">
   <img src="images/IMG_8909.jpg" height=200px>
@@ -14,6 +11,10 @@ I have completed several academic projects that leverage machine learning to pre
 
 [Project 1: Fraud Detection Analysis for Banking Transactions](https://github.com/nilanjanaghoshal/Fraud-Detection-Analysis-for-Banking-Transactions)
 
+<p align="center">
+  <img src="images/istockphoto-585806700-612x612.jpg" height=200px>
+ </p>
+ 
 Summary:
 
 The Python script reads a dataset of credit card transactions from a CSV file and performs various exploratory data analysis (EDA) techniques to understand the distribution and correlation of the data features. It then splits the dataset into training and testing sets and creates a logistic regression model to detect fraudulent activities in banking transactions. Finally, the script evaluates the accuracy of the model and presents the results as classification metrics.
@@ -24,11 +25,13 @@ The logistic regression model achieved an accuracy score of 99.8%, which indicat
 
 In summary, the script provides a useful approach for detecting fraudulent activities in banking transactions using a logistic regression model. This approach can be beneficial for banks to minimize their losses from fraudulent activities and improve their fraud prevention systems.
 
-<p align="center">
-  <img src="images/istockphoto-585806700-612x612.jpg" height=200px>
- </p>
+
 
 [Project 2: Investing in houses at Nashville](https://github.com/nilanjanaghoshal/Nashville_house_price-prediction)
+
+<p align="center">
+  <img src="images/house sale.jpg" height=200px>
+</p>
 
 Summary:
 
@@ -38,11 +41,13 @@ Results:
 
 The report identifies several potential variables that could be considered while making an investment decision, including land value, building value, finished area, and full bath. The data shows that there were more houses reported as overpriced than underpriced and that June 2015 had the most sales. There is a large difference between the average value of certain numerical columns, indicating the presence of outliers. The boxplots help to identify the types of houses and areas to focus on when making investment decisions. Finally, the heatmap shows positive correlations between land value, building value, finished area, and full bath, confirming their potential as significant variables.
 
-<p align="center">
-  <img src="images/house sale.jpg" height=200px>
-</p>
+
 
 [Project 3: Text Classification: Predicting Labels of the Data Entries](https://github.com/nilanjanaghoshal/Text-classification)
+
+<p align="center">
+  <img src="images/text classification.png" height=200px>
+</p>
 
 Summary:
 
@@ -58,7 +63,5 @@ Finally, the Gradient Boosting model was applied to the data using default param
 
 Overall, the models achieved high accuracy and performed well in predicting the labels of the data entries.
 
-<p align="center">
-  <img src="images/text classification.png" height=200px>
-</p>
+
  
