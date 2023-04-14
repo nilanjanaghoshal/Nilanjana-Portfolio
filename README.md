@@ -59,6 +59,6 @@ Finally, the Gradient Boosting model was applied to the data using default param
 Overall, the models achieved high accuracy and performed well in predicting the labels of the data entries.
 
 <p align="center">
-  <img src="images/text classification.png" height=400px>
+  <img src="images/text classification.png" height=200px>
 </p>
  
