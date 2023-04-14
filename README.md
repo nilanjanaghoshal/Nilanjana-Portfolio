@@ -1,4 +1,4 @@
-# Data Science Projects
+# Nilanjana Ghoshal - Data Analyst 
 
 
 ![](/images/IMG_8909.jpg)
