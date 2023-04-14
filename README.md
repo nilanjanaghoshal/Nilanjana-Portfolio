@@ -30,7 +30,7 @@ In summary, the script provides a useful approach for detecting fraudulent activ
 [Project 2: Investing in houses at Nashville](https://github.com/nilanjanaghoshal/Nashville_house_price-prediction)
 
 <p align="center">
-  <img src="images/house sale.jpg" height=200px>
+  <img src="images/timeseries.png" height=400px>
 </p>
 
 Summary:
