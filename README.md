@@ -1,5 +1,5 @@
 <p align="center">
-  <b> Nilanjana Ghoshal 
+   ##Nilanjana Ghoshal 
 </p>
 
 <p align="center">
