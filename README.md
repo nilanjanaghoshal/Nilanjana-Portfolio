@@ -1,4 +1,4 @@
-# Nilanjana Ghoshal: Data Analyst 
+# Nilanjana Ghoshal 
 
 
 ![](/images/IMG_8909.jpg)
