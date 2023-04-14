@@ -1,7 +1,7 @@
 # Nilanjana Ghoshal 
 
 
-![](/images/IMG_8909.jpg =250x250)
+![](/images/IMG_8909.jpg width="60%" height="50%)
 
 
 Hi, I'm Nilanjana Ghoshal, a data-driven analytics professional with a passion for solving complex problems using machine learning. With a Master of Science in Analytics and a Master's in Business Administration, I have a broad range of skills in probability and statistics, big data, data mining, visualization, financial analysis, and marketing analysis.
